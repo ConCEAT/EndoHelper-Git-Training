@@ -18,3 +18,4 @@ Check it out - quite literally - with `git checkout 01_commits`. You'll
 notice a local branch tracking the remote one has been created.
 
 ### Idz sobieo zobacz ziomek
+Tutaj jest zmiana tutududud
